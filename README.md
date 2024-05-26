@@ -187,18 +187,18 @@ Here's a breakdown of the results for top paying skills for Data Analysts:
 - **Software Development & Deployment Proficiency:** Knowledge in development and deployment tools (GitLab, Kubernetes, Airflow) indicates a lucrative crossover between data analysis and engineering, with a premium on skills that facilitate automation and efficient data pipeline management.
 - **Cloud Computing Expertise:** Familiarity with cloud and data engineering tools (Elasticsearch, Databricks, GCP) underscores the growing importance of cloud-based analytics environments, suggesting that cloud proficiency significantly boosts earning potential in data analytics.
 
-|**Skills**|**Average Salary**|
+|**Skills**|**Average Salary ($)**|
 |--|--|
-|pyspark|208172|
-|bitbucket|189155|
-|couchbase|160515|
-|watson|160515|
-|datarobot|155486|
-|gitlab|154500|
-|swift|153750|
-|jupyter|152777|
-|pandas|151821|
-|elasticsearch|145000|
+|pyspark|208,172|
+|bitbucket|189,155|
+|couchbase|160,515|
+|watson|160,515|
+|datarobot|155,486|
+|gitlab|154,500|
+|swift|153,750|
+|jupyter|152,777|
+|pandas|151,821|
+|elasticsearch|145,000|
 
 *Table of the average salary for the top 10 paying skills for data analysts*
 
@@ -229,7 +229,7 @@ LIMIT 25;
 ```
 |**Skill ID**|**Skills**|**Demand Count**|**Average Salary ($)**|
 |--|--|--|--|
-|8|go||27|115,320|
+|8|go|27|115,320|
 |97|hadoop|22|113,193|
 |80|snowflake|37|112,948|
 |74|azure|34|111,225|
@@ -240,6 +240,7 @@ LIMIT 25;
 |233|jira|20|104,918|
 
 *Table of the most optimal skills for data analyst sorted by salary*
+
 Here's a breakdown of the most optimal skills for Data Analysts in 2023:
 
 - **High-Demand Programming Languages:** Python and R stand out for their high demand, with demand counts of 236 and 148 respectively. Despite their high demand, their average salaries are around $101,397 for Python and $100,499 for R, indicating that proficiency in these languages is highly valued but also widely available.

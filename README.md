@@ -24,13 +24,13 @@ salaries?
 # Tools I Used
 For my deep dive into the data analyst job market,
 I harnessed the power of several key tools:
-- SQL: The backbone of my analysis, allowing me to
+- **SQL**: The backbone of my analysis, allowing me to
 query the database and unearth critical insights.
-- PostgreSQL: The chosen database management
+- **PostgreSQL**: The chosen database management
 system, ideal for handling the job posting data.
-- Visual Studio Code: My go-to for database
+- **Visual Studio Code**: My go-to for database
 management and executing SQL queries.
-- Git & GitHub: Essential for version control and
+- **Git & GitHub**: Essential for version control and
 sharing my SQL scripts and analysis, ensuring
 collaboration and project tracking.
 
@@ -147,8 +147,8 @@ LIMIT 5;
 ```
 Here's the breakdown of the most demanded skills for data analysts in 2023
 
-**SQL** and **Excel** remain fundamental, emphasizing the need for strong foundational skills in data processing and spreadsheet manipulation.
-**Programming** and **Visualization** Tools like **Python**, **Tableau**, and **Power BI** are essential, pointing towards the increasing importance of technical skills in data storytelling and decision support.
+- **SQL** and **Excel** remain fundamental, emphasizing the need for strong foundational skills in data processing and spreadsheet manipulation.
+- **Programming** and **Visualization** Tools like **Python**, **Tableau**, and **Power BI** are essential, pointing towards the increasing importance of technical skills in data storytelling and decision support.
 
 |**Skills**|**Demand Count**|
 |--|--|

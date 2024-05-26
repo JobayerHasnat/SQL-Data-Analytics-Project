@@ -82,7 +82,7 @@ in job titles, from Data Analyst to Director of
 Analytics, reflecting varied roles and
 specializations within data analytics.
 
-![Top Paying Roles](project_sql\assets\f6481efa-dd29-4c48-b40b-23fe76f604e3.png) *Bar graph visualizing the salary for the top 10 salaries for data analytics; ChatGPT generated this graph from my SQL query results*
+![Top Paying Roles](assets\f6481efa-dd29-4c48-b40b-23fe76f604e3.png) *Bar graph visualizing the salary for the top 10 salaries for data analytics; ChatGPT generated this graph from my SQL query results*
 
 
 ### 2. Skills for top paying jobs
